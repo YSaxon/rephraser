@@ -15,13 +15,31 @@ T0
 @  l 
 ##   Camelcase without spaces
 @  T0
-## same but with - in between 
+## Word-Word-Word-Word 
 s -
+## Word-word-word-word
 cs -
+## word-word-word-word
 ls -
+## word-Word-Word-Word
 T0 -
-##same but with _ in between
+## Word_Word_Word_Word
 s _
+## Word_word_word_word
 cs _
+## word_word_word_word
 ls _
+## word_Word_Word_Word
 T0 _
+## wordWordwordword
+l30 @ 
+## word-Word-word-word
+l30 s -
+## wordwordWordword
+l31 @ 
+## word-word-Word-word
+l31 s -
+## wordwordwordWord
+l32 @ 
+## word-word-word-Word
+l32 s -
