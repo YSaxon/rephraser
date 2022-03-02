@@ -15,3 +15,13 @@ T0
 @  l 
 ##   Camelcase without spaces
 @  T0
+## same but with - in between 
+s -
+cs -
+ls -
+T0 -
+##same but with _ in between
+s _
+cs _
+ls _
+T0 _
